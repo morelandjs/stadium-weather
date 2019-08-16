@@ -1,0 +1,98 @@
+# NFL team abbreviations and their most recent zip code
+
+ARI:
+  zipcode: 85305
+  dome: true
+ATL:
+  zipcode: 30313
+  dome: true
+BAL:
+  zipcode: 21230
+  dome: false
+BUF:
+  zipcode: 14127
+  dome: false
+CAR:
+  zipcode: 28202
+  dome: false
+CHI:
+  zipcode: 60605
+  dome: false
+CIN:
+  zipcode: 45202
+  dome: false
+CLE:
+  zipcode: 44114
+  dome: false
+DAL:
+  zipcode: 76011
+  dome: true
+DEN:
+  zipcode: 80204
+  dome: false
+DET:
+  zipcode: 48226
+  dome: true
+GB:
+  zipcode:
+  dome:
+HOU:
+  zipcode:
+  dome:
+IND:
+  zipcode:
+  dome:
+JAX:
+  zipcode:
+  dome:
+KC:
+  zipcode:
+  dome:
+LA:
+  zipcode:
+  dome:
+LAC:
+  zipcode:
+  dome:
+MIA:
+  zipcode:
+  dome:
+MIN:
+  zipcode:
+  dome:
+NE:
+  zipcode:
+  dome:
+NO:
+  zipcode:
+  dome:
+NYG:
+  zipcode:
+  dome:
+NYJ:
+  zipcode:
+  dome:
+OAK:
+  zipcode:
+  dome:
+PHI:
+  zipcode:
+  dome:
+PIT:
+  zipcode:
+  dome:
+SF:
+  zipcode:
+  dome:
+SEA:
+  zipcode:
+  dome:
+TB:
+  zipcode:
+  dome:
+TEN:
+  zipcode:
+  dome:
+WAS:
+  zipcode:
+  dome:
